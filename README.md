@@ -81,6 +81,10 @@ It reflects practical engineering skills beyond academic coursework.
 ## 🌐 Live Demo
 👉 https://ai-resume-screeninggit-ue73sjncvu8yqtupzjkzpy.streamlit.app/
 
+## 📸 App Preview
+
+![AI Resume Screening App](app-preview.png)
+
 
 👨‍💻 Author
 
