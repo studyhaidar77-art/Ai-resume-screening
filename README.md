@@ -48,7 +48,8 @@ This mimics how modern **Applicant Tracking Systems (ATS)** filter candidates.
 
 ---
 
-## 📂 Project Structure
+## 🌐 Live Demo
+👉 https://ai-resume-screeninggit-ue73sjncvu8yqtupzjkzpy.streamlit.app/
 
 ## 📸 App Preview
 
@@ -56,6 +57,7 @@ This mimics how modern **Applicant Tracking Systems (ATS)** filter candidates.
 ![AI Resume Screening App](https://raw.githubusercontent.com/studyhaidar77-art/Ai-resume-screening/main/app-preview.png)
 
 ---
+## 📂 Project Structure
 
 ## ▶️ Run Locally
 
@@ -82,8 +84,6 @@ Work with embeddings and similarity models
 
 It reflects practical engineering skills beyond academic coursework.
 
-## 🌐 Live Demo
-👉 https://ai-resume-screeninggit-ue73sjncvu8yqtupzjkzpy.streamlit.app/
 
 👨‍💻 Author
 
