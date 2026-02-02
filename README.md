@@ -84,7 +84,7 @@ It reflects practical engineering skills beyond academic coursework.
 ## 📸 App Preview
 
 (Preview image below)
-![AI Resume Screening App](app-preview.png)
+![AI Resume Screening App](https://raw.githubusercontent.com/studyhaidar77-art/Ai-resume-screening/main/app-preview.png)
 
 
 👨‍💻 Author
