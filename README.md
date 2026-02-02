@@ -80,5 +80,5 @@ It reflects practical engineering skills beyond academic coursework.
 
 👨‍💻 Author
 
-Haidar Ali
+Ali Haidar
 Aspiring AI Engineer | Data Science Enthusiast
