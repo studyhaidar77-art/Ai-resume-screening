@@ -78,6 +78,10 @@ Work with embeddings and similarity models
 
 It reflects practical engineering skills beyond academic coursework.
 
+## 🌐 Live Demo
+👉 https://ai-resume-screeninggit-ue73sjncvu8yqtupzjkzpy.streamlit.app/
+
+
 👨‍💻 Author
 
 Ali Haidar
